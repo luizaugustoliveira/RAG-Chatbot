@@ -1,6 +1,6 @@
 # RAG Chatbot
 
-A sophisticated Retrieval-Augmented Generation (RAG) chatbot application built with Streamlit and LangChain. This application allows users to upload PDF documents and ask questions about their content using AI-powered responses.
+A Retrieval-Augmented Generation (RAG) chatbot application built with Streamlit and LangChain. This application allows users to upload PDF documents and ask questions about their content using AI-powered responses.
 
 ## Features
 
@@ -135,18 +135,6 @@ The application supports the following OpenAI models:
 - gpt-4-turbo
 - gpt-4o-mini
 - gpt-4o
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
